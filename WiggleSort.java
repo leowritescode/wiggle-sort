@@ -1,9 +1,11 @@
 /*
-    WiggleSort is an exercise for launchcode.org. The idea is to sort an array 
-    of integers so that the largest is placed at the beginning of the array 
-    followed by the smallest. This continues with the next largest number and
-	the next smallest number until the entire array is sorted.
+    WiggleSort is an exercise from Hacker Rank.
+    The idea is to sort an array of integers so that the largest 
+    is placed at the beginning of the array followed by the smallest. 
+    This continues with the next largest number and the next smallest 
+    number etc. etc.
 */
+
 class WiggleSort{
 	public static void main (String[] args){
 
